@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inner Line Permit Replica</title>
+    <style>
+        body { font-family: sans-serif; margin: 0; padding: 10px; background-color: #fff; color: #2c3e50; }
+        .permit-container { max-width: 600px; margin: 0 auto; background: #fff; border: 1px solid #e0e0e0; position: relative; padding-bottom: 20px; }
+        
+        /* टॉप बार */
+        .top-bar { background-color: #e9ecef; padding: 10px 15px; font-size: 14px; font-weight: 600; color: #333; display: flex; justify-content: space-between; align-items: center; position: relative; border-bottom: 1px solid #ddd; }
+        .green-flag { position: absolute; right: 15px; top: 0; background-color: #2ecc71; width: 30px; height: 35px; display: flex; align-items: center; justify-content: center; clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 80%, 0 100%); }
+        .green-flag span { color: white; font-size: 14px; margin-bottom: 5px; }
+
+        /* मुख्य टॉप बैनर इमेज */
+        .banner-placeholder { width: 100%; height: 140px; border: 1px dashed #bbb; display: flex; align-items: center; justify-content: center; background: #f5f5f5; color: #666; font-size: 13px; position: relative; }
+        .banner-logo-circle { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 80px; height: 80px; border-radius: 50%; border: 1px dashed #777; background: #fff; display: flex; align-items: center; justify-content: center; font-size: 10px; text-align: center; }
+
+        /* मुख्य कंटेंट एरिया */
+        .main-content { padding: 20px; position: relative; }
+        
+        /* वाटरमार्क */
+        .watermark-placeholder { position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); width: 160px; height: 140px;  #cbd5e1; display: flex; align-items: center; justify-content: center; color: #94a3b8; font-size: 12px; text-align: center; pointer-events: none; }
+
+        /* नाम और आईएलपी नंबर */
+        .ilp-top-num { text-align: center; font-size: 14px; color: #64748b; font-weight: normal; margin-top: 10px; margin-bottom: 2px; }
+        .name-main { text-align: center; font-size: 38px; font-weight: bold; color: #1e293b; margin: 0 0 20px 0; letter-spacing: 0.5px; }
+
+        /* ग्रिड लेआउट */
+        .info-grid { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 20px; position: relative; z-index: 2; }
+        .details-left { width: 65%; font-size: 14px; line-height: 1.7; color: #334155; font-weight: normal; }
+        .details-left p { margin: 4px 0; }
+        .qr-right { width: 30%; text-align: right; }
+        .qr-placeholder-box { width: 105px; height: 105px;  #2ecc71; display: flex; align-items: center; justify-content: center; background: #f0fdf4; margin-left: auto; font-size: 11px; color: #16a34a; font-weight: bold; text-align: center; }
+
+        /* पास डिटेल्स */
+        .pass-details-title { text-align: center; font-weight: bold; font-size: 15px; color: #0f172a; margin-top: 10px; margin-bottom: 8px; }
+        .pass-info-text { text-align: center; font-size: 14px; line-height: 1.8; color: #1e293b; margin-bottom: 20px; }
+        .pass-info-text p { margin: 4px 0; }
+        .bold-text { font-weight: bold; }
+
+        /* VALID सेक्शन और स्टैम्प का कंबाइंड कंटेनर */
+        .valid-zone { position: relative; margin: 40px 0 20px 0; padding-top: 20px; }
+        
+        /* VALID पट्टी */
+        .valid-stripe { background-color: #72cb87; color: #fff; text-align: center; padding: 6px 0; font-weight: bold; font-size: 14px; letter-spacing: 1px; width: 100%; border-radius: 3px; position: relative; z-index: 1; }
+
+        /* स्टैम्प और सिग्नेचर जो VALID पट्टी के साथ बाईं तरफ दिखेगा */
+        .stamp-on-valid { position: absolute; left: 10px; top: -35px; width: 130px; height: 110px; background: rgba; color: #2563eb; font-size: 11px; display: flex; align-items: center; justify-content: center; text-align: center; z-index: 2; border-radius: 5px; }
+
+        /* सबसे नीचे का माउंटेन ग्राफ़िक */
+        .bottom-mountain-zone { display: flex; justify-content: center; margin-top: 20px; }
+        .mountain-graphic-box { width: 50%; height: 80px; #94a3b8; display: flex; align-items: center; justify-content: center; background: #f8fafc; color: #64748b; font-size: 12px; text-align: center; }
+    </style>
+</head>
+<body>
+
+    <div class="permit-container">
+        <div class="top-bar">
+            <span>Inner Line Permit / ILP-PASS-30978-06-2026</span>
+            <div class="green-flag">
+                <span>★</span>
+            </div>
+        </div>
+
+        <div class="banner-placeholder">
+            <div class="2f4d8bfca1875780911a648406fd5034.png">
+    <img src="SmartSelect_20260617_001927_Chrome(1).png" alt="Banner Image" style="width: 100%;">
+</div>
+
+            <div class="">
+              
+            </div>
+        </div>
+
+        <div class="main-content">
+            
+            <div class="">
+                <div class="watermark-placeholder">
+    <img src="26742-removebg-preview.png" alt="Watermark Logo" style="opacity: 0.2; width: 75%;">
+</div>
+
+            </div>
+
+            <div class="ilp-top-num">ILP-PASS-30978-06-2026</div>
+            <div class="name-main">GRISHMA SAHIL SHAH</div>
+
+            <div class="info-grid">
+                <div class="details-left">
+                    <p>C/O WO Sahil Kalpesh Shah</p>
+                    <p>UTTARAKHAND</p>
+                    <p style="margin-top: 12px;">PROFESSION: OTHER</p>
+                    <p>ID MARK: NO</p>
+                    <p>MOBILE: 9820785558</p>
+                </div>
+                <div class="qr-right">
+                    <div class="qr-placeholder-box">
+                        <img src=""alt="2f4d8bfca1875780911a648406fd5034.png" style="width: 50px; hight: auto;">
+                    </div>
+                </div>
+            </div>
+
+            <div class="pass-details-title">Pass Details</div>
+            <div class="pass-info-text">
+                <p><span class="bold-text">Permission For :</span> आदि कैलाश एवं ॐ पर्वत Track for 4 Days</p>
+                <p><span class="bold-text">Issued From:</span> Thu, Jun 25, 2026 12:00 AM</p>
+                <p><span class="bold-text">Validity:</span> Mom, Jun 29, 2026 12:00 AM</p>
+                <p><span class="bold-text">ISSUING AUTHORITY:</span> SDM DHARCHULA 9000000000</p>
+            </div>
+
+            <div class="valid-zone">
+                <div class="stamp-on-valid">
+                    <img src="file_0000000062047207b9594c728a1c96e0.png" alt="Stamp and Signature" style="width: 150px; height: auto;">
+                </div>
+                <div class="valid-stripe">
+                    VALID
+                </div>
+            </div>
+
+            <div class="bottom-mountain-zone">
+                <div class="mountain-graphic-box">
+                    <img src="26739-removebg-preview.png" alt="Black Mountain" style="width: 180%;"\>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+  </html>
